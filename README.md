@@ -1,2 +1,2 @@
 # biosok.github.io
-Story website
+Just visit https://biosok.github.io/
